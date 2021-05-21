@@ -8,3 +8,7 @@ Ces cartes comportent les caractéristiques principales des différentes armes l
 ## V.1 : Armes et armures de base (armes courantes, armes de guerre et armures courantes)
 
 La version 1 regroupe les armes basiques disponibles sous licence OGL.
+
+![Cartes d'armures et d'armes](https://www.black-book-editions.fr/contenu/users/78375/image/rendu.jpg)
+![Cartes d'armures](https://www.black-book-editions.fr/contenu/users/78375/image/rendu_armures.jpg)
+![Cartes d'armes](https://www.black-book-editions.fr/contenu/users/78375/image/sample.jpg)
