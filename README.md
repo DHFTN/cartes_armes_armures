@@ -7,7 +7,9 @@ Ces cartes comportent les caractéristiques principales des différentes armes l
 
 ## Armes et armures de base et magiques
 
-La version 1.2 regroupe les armes basiques et les armes magiques disponibles sous licence OGL.
+La version 1.3 regroupe les armes basiques et les armes magiques disponibles sous licence OGL mais aussi des cartes éditables pour vous homebrew.
+
+### v.1.3 : Ajouts de cartes éditables pour le homebrew
 
 ### v.1.2 : Ajouts des armes et armures magiques
 
